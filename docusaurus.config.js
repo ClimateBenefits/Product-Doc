@@ -6,7 +6,7 @@ module.exports = {
   title: 'Climate Benefits Doc',
   tagline: 'Climate Benefits',
   url: 'https://climatebenefits.github.io/docs/',
-  baseUrl: '/docs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
