@@ -5,8 +5,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Climate Benefits Doc',
   tagline: 'Climate Benefits',
-  url: 'https://climatebenefits.github.io/docs/',
-  baseUrl: '/',
+  url: 'https://climatebenefits.github.io/',
+  baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
