@@ -14,10 +14,10 @@ module.exports = {
   projectName: 'docs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Product Doc',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/CBLogo.png',
       },
       items: [
         {
