@@ -14,18 +14,19 @@ module.exports = {
   projectName: 'docs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Product Doc',
+      title: 'Climate Benefits',
       logo: {
         alt: 'My Site Logo',
         src: 'img/CBLogo.png',
+        href: '/docs/intro'
       },
       items: [
-        {
+       /* {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Product',
-        },
+          label: 'Climate Benefits',
+        }, */
       ],
     },
     footer: {
