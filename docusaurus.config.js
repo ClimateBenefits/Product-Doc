@@ -18,7 +18,7 @@ module.exports = {
       logo: {
         alt: 'My Site Logo',
         src: 'img/CBLogo.png',
-        href: '/docs/intro'
+        href: '/'
       },
       items: [
        /* {
@@ -43,6 +43,7 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
         },
