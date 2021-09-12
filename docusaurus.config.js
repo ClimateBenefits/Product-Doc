@@ -31,7 +31,7 @@ module.exports = {
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} Climate Benefits, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Climate Benefits, Inc.`,
     },
     prism: {
       theme: lightCodeTheme,
