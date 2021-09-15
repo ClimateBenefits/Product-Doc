@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 ---
+import ReactPlayer from 'react-player'
 
 # Getting Started
 
@@ -20,3 +21,8 @@ Select at least 1 benefit to start customizing your program.
 
 After this onboarding process, you’ll be taken to the Home page. 
 
+<ReactPlayer playing url='../../src/assets/Get Started.mov'
+                height='500px'
+                width='800px'
+                controls='true'
+/>

@@ -12,3 +12,5 @@ To access the Benefits Feedback data:
 1. Go to the [Reports](https://www.app.climatebenefits.com/employer/reports) page. 
 2. Click on the Benefits Feedback sub-navigation. 
 3. View the data table for incoming feedback. 
+
+![Benefits Feedback](../../src/assets/BenefitsFeedback.png)

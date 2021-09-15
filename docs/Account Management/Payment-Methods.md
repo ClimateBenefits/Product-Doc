@@ -12,3 +12,5 @@ To add or edit your default payment methods:
 5. To edit the card information, click on the blue “Edit” button. 
 
 Climate Benefits uses Stripe for secure payment processing. When adding a card, we verify this is a valid card but do not process any transaction without your consent. 
+
+![Payment Method](../../src/assets/PaymentMethod.png)

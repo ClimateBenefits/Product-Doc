@@ -14,3 +14,6 @@ The following data points are available:
 * Total Donations through Climate Benefits 
 * Total Donated to Carbon Removal Projects 
 * Total Donated to Climate Advocacy 
+
+
+![Reports Dashboard](../../src/assets/ReportsDashboard.png)

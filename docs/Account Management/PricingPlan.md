@@ -18,3 +18,5 @@ To select a Pricing Plan:
 5. Click on Pay Now. You’ll see a confirmation message with your updated subscription. 
 6. Now go to the [Team](https://www.app.climatebenefits.com/employer/teams) page to see the number of seats available to your account. As you add employees, this number will update automatically to give you full visibility. 
 
+
+![Pricing Plan](../../src/assets/PricingPlan.png)

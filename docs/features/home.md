@@ -14,3 +14,4 @@ Here’s what’s available:
 
 The data on the Home page **automatically** updates as you and your team uses Climate Benefits. 
 
+![Home Page](../../src/assets/HomePage.png)

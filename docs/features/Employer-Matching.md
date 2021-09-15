@@ -1,6 +1,7 @@
 ---
 sidebar_position: 6
 ---
+import ReactPlayer from 'react-player'
 
 # Employer Matching
 
@@ -13,3 +14,9 @@ To activate a Employer Matching program:
 2. Click on the Account Information sub-navigation. 
 3. On the Employer Matching field, enter the amount desired.
 4. Click on the blue ‘Save’ button. 
+
+<ReactPlayer playing url='../../src/assets/Employee Matching.mov'
+                height='500px'
+                width='800px'
+                controls='true'
+/>
