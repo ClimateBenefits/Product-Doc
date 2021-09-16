@@ -1,7 +1,6 @@
 ---
 sidebar_position: 2
 ---
-import ReactPlayer from 'react-player'
 
 # Feedback   
 
@@ -16,8 +15,4 @@ If we have any questions about your feedback, a member of our support team will 
 We always welcome feedback to improve the Climate Benefits ecosystem. You can always email our CEO at param@climatebenefits.com  
 
 
-<ReactPlayer playing url='../../src/assets/Feedback.mov'
-                height='500px'
-                width='800px'
-                controls='true'
-/>
+![Feedback](../../src/assets/Feedback.gif)

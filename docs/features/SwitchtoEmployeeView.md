@@ -1,7 +1,6 @@
 ---
 sidebar_position: 3
 ---
-import ReactPlayer from 'react-player'
 
 # Switch to Employee View
 
@@ -13,8 +12,4 @@ To switch between the views:
 3. Once you’re on the Employee view, click on the link in the dropdown again to return to the Employer view. 
 
 
-<ReactPlayer playing url='../../src/assets/Switch to Employee View .mov'
-                height='500px'
-                width='800px'
-                controls='true'
-/>
+![SwitchtoEmployeeView](../../src/assets/SwitchtoEmployeeView.gif)

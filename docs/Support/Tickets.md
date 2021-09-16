@@ -1,7 +1,6 @@
 ---
 sidebar_position: 1
 ---
-import ReactPlayer from 'react-player'
 
 # Tickets   
 
@@ -16,8 +15,4 @@ A member of our support team will follow up with you via email within 24 hours o
 If the issue is urgent, please contact us at support@climatebenefits.com 
 
 
-<ReactPlayer playing url='../../src/assets/Support.mov'
-                height='500px'
-                width='800px'
-                controls='true'
-/>
+![Support](../../src/assets/Support.gif)

@@ -1,7 +1,6 @@
 ---
 sidebar_position: 7
 ---
-import ReactPlayer from 'react-player'
 
 # Monthly Rollover 
 
@@ -15,8 +14,4 @@ To activate a Monthly Rollover program:
 
 Once activated, the Monthly Rollover activates 30 days after your Climate Benefits program started. 
 
-<ReactPlayer playing url='../../src/assets/Monthly Rollover.mov'
-                height='500px'
-                width='800px'
-                controls='true'
-/>
+![MonthlyRollover](../../src/assets/MonthlyRollover.gif)

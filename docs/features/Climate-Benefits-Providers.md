@@ -1,7 +1,6 @@
 ---
 sidebar_position: 4
 ---
-import ReactPlayer from 'react-player'
 
 # Climate Benefits Providers 
 
@@ -22,8 +21,4 @@ To customize the Climate Benefits Providers available to your employees:
 Employers can also select **“Select All Benefits”** to include all available benefits to the Employees. This is a popular option to give employees full flexibility when choosing where to allocate their stipends. 
 
 
-<ReactPlayer playing url='../../src/assets/Climate Benefits Providers .mov'
-                height='500px'
-                width='800px'
-                controls='true'
-/>
+![ClimateBenefitsProviders](../../src/assets/ClimateBenefitsProviders.gif)

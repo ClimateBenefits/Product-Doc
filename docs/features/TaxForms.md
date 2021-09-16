@@ -1,7 +1,6 @@
 ---
-sidebar_position: 16
+sidebar_position: 18
 ---
-import ReactPlayer from 'react-player'
 
 # Tax Forms 
 
@@ -17,8 +16,4 @@ To claim the tax credits:
 According to the tax code, you can claim up to 10% of your company’s income with these types of deductions. We do suggest reviewing the data with your accountant or lawyer before filing for these tax credits. 
 
 
-<ReactPlayer playing url='../../src/assets/Tax Forms.mov'
-                height='500px'
-                width='800px'
-                controls='true'
-/>
+![TaxForms](../../src/assets/TaxForms.gif)

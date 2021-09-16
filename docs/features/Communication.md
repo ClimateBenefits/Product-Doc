@@ -1,7 +1,6 @@
 ---
 sidebar_position: 11
 ---
-import ReactPlayer from 'react-player'
 
 # Communication 
 
@@ -17,8 +16,4 @@ For templates or suggestions, email us at [support@climatebenefits.com](mailto:s
 
 ![Communication](../../src/assets/Communication.png)    
 
-<ReactPlayer playing url='../../src/assets/Email Invitation.mov'
-                height='500px'
-                width='800px'
-                controls='true'
-/>
+![EmailInvitation](../../src/assets/EmailInvitation.gif)

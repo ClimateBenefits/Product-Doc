@@ -1,7 +1,6 @@
 ---
 sidebar_position: 12
 ---
-import ReactPlayer from 'react-player'
 
 # Team Management
 
@@ -25,8 +24,4 @@ To add employees through a secure payroll or HR integration:
 
 Employers can also edit user information, make any user an Admin, and delete users. If you make a user an Admin, they will be able to switch between the Employer and Employee views. Additionally, Admins have full access to customize the benefit on behalf of the organization.  
 
-<ReactPlayer playing url='../../src/assets/Team.mov'
-                height='500px'
-                width='800px'
-                controls='true'
-/>
+![Team](../../src/assets/Team.gif)

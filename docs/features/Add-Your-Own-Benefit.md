@@ -1,7 +1,6 @@
 ---
 sidebar_position: 9
 ---
-import ReactPlayer from 'react-player'
 
 
 # Add Your Own Benefit  
@@ -16,8 +15,4 @@ To add your own benefit:
 5. The custom benefit will now appear in the corresponding sub-nagivation as the benefit type you chose in the form. 
 
 
-<ReactPlayer playing url='../../src/assets/AddYourOwnBenefit.mov'
-                height='500px'
-                width='800px'
-                controls='true'
-/>
+![Add Your Own Benefit](../../src/assets/AddYourOwnBenefit.gif)

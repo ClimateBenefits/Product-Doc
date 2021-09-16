@@ -1,7 +1,6 @@
 ---
 sidebar_position: 3
 ---
-import ReactPlayer from 'react-player'
 
 # Subscriptions    
 
@@ -14,8 +13,4 @@ To download individual invoices, click on the blue “Invoice” button on each 
 
 To download a ZIP file with all invoices, click on the blue “Download All” button on the top right of the page. 
 
-<ReactPlayer playing url='../../src/assets/Subscriptions.mov'
-                height='500px'
-                width='800px'
-                controls='true'
-/>
+![Subscriptions](../../src/assets/Subscriptions.gif)

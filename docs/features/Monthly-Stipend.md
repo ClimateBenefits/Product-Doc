@@ -1,7 +1,6 @@
 ---
 sidebar_position: 5
 ---
-import ReactPlayer from 'react-player'
 
 # Monthly Stipend
 
@@ -18,8 +17,4 @@ To customize the Monthly Stipend:
 4. Click on the blue ‘Save’ button. 
 
 
-<ReactPlayer playing url='../../src/assets/Monthly Stipend.mov'
-                height='500px'
-                width='800px'
-                controls='true'
-/>
+![MonthlyStipend](../../src/assets/MonthlyStipend.gif)
