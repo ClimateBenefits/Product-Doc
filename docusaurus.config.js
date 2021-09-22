@@ -13,6 +13,7 @@ module.exports = {
   organizationName: 'ClimateBenefits', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
   themeConfig: {
+    image: './src/assets/ClimateBenefitsSocialShare.png',
     navbar: {
       title: 'Climate Benefits',
       logo: {
