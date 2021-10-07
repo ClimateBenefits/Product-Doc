@@ -4,7 +4,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   scripts: [
-  
   ],
   title: 'Climate Benefits Doc',
   tagline: 'Climate Benefits',
