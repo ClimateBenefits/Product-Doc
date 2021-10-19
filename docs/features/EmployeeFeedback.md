@@ -10,3 +10,5 @@ To access the Employee Feedback data:
 1. Go to the [Reports](https://www.app.climatebenefits.com/employer/reports) page. 
 2. Click on the Employee Feedback sub-navigation. 
 3. View the data table for incoming feedback. 
+
+![employeeFeedback](../../src/assets/employeeFeedback.gif)
