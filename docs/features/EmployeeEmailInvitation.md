@@ -12,3 +12,5 @@ To customize the email invitation:
 2. Go to the Email Invitation sub-navigation.
 3. Using the drag-and-drop editor to customize the email. You can change the structure, content, and design of the email, as well as mobile optimize it. 
 4. When done, you can leave the page. The email template automatically saves. 
+
+![EmailInvitation](../../src/assets/EmailInvitation.gif)

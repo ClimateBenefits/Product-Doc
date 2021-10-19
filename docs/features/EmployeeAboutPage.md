@@ -16,4 +16,3 @@ For templates or suggestions, email us at [support@climatebenefits.com](mailto:s
 
 ![Communication](../../src/assets/Communication.png)    
 
-![EmailInvitation](../../src/assets/EmailInvitation.gif)
