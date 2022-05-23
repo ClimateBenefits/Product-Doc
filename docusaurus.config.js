@@ -3,6 +3,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
+  themes: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        hashed: true,
+        indexBlog: false,
+        docsRouteBasePath: "/",
+      },
+    ],
+  ],
   scripts: [
   ],
   title: 'Climate Benefits Doc',
